@@ -32,4 +32,3 @@ How to use
 - Keep this README in docs/ as the single entrypoint for OctoAcme process documentation.
 - Link to this README from the repo root or project READMEs to improve discoverability.
 - When proposing updates, use the Add Content to Project Management Process Docs issue template in .github/ISSUE_TEMPLATE/.
-
